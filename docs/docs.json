@@ -34,12 +34,12 @@
       "url": "https://mintlify.com/community"
     }
   ],
-  "navigation": {
+    "navigation": {
     "groups": [
       {
         "group": "Getting Started",
         "pages": [
-          "docs/third_party/doppler/doppler_docs/overview",
+          "docs/doppler/doppler_docs/overview",
           "docs/third_party/doppler/doppler_docs/getting-started",
           "docs/third_party/doppler/doppler_docs/installation"
         ]
