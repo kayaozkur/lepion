@@ -39,7 +39,6 @@
       {
         "group": "Getting Started",
         "pages": [
-          "docs/json_driven_config",
           "docs/third_party/doppler/doppler_docs/overview",
           "docs/third_party/doppler/doppler_docs/getting-started",
           "docs/third_party/doppler/doppler_docs/installation"
