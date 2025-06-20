@@ -2,10 +2,10 @@
   "$schema": "https://mintlify.com/schema.json",
   "name": "Documentation",
   "logo": {
-    "dark": "/brand_assets/logo/svg/brand_logo/dark.svg",
-    "light": "/brand_assets/logo/svg/brand_logo/light.svg"
+    "dark": "/logo/dark.svg",
+    "light": "/logo/light.svg"
   },
-  "favicon": "/brand_assets/logo/svg/icon/dark.svg",
+  "favicon": "/favicon.svg",
   "colors": {
     "primary": "#f46530",
     "light": "#ffffff",
