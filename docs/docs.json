@@ -34,44 +34,60 @@
       "url": "https://mintlify.com/community"
     }
   ],
-  "navigation": {
-    "Getting Started": [
-      "docs/json_driven_config",
-      "docs/third_party/doppler/doppler_docs/overview",
-      "docs/third_party/doppler/doppler_docs/getting-started",
-      "docs/third_party/doppler/doppler_docs/installation",
-      "docs/third_party/doppler/doppler_docs/doppler-getting-started-guide"
-    ],
-    "CLI & Commands": [
-      "docs/third_party/doppler/doppler_docs/doppler-cli-guide",
-      "docs/third_party/doppler/doppler_docs/cli-commands",
-      "docs/third_party/doppler/doppler_docs/command-cheatsheet",
-      "docs/third_party/doppler/doppler_docs/tui-guide"
-    ],
-    "Secrets Management": [
-      "docs/third_party/doppler/doppler_docs/secrets-basics",
-      "docs/third_party/doppler/doppler_docs/accessing-secrets",
-      "docs/third_party/doppler/doppler_docs/importing-secrets",
-      "docs/third_party/doppler/doppler_docs/secret-injection"
-    ],
-    "API & Integrations": [
-      "docs/third_party/doppler/doppler_docs/doppler_api_sdk_guide",
-      "docs/third_party/doppler/doppler_docs/doppler-integration-guide"
-    ],
-    "Organization & Security": [
-      "docs/third_party/doppler/doppler_docs/project-organization",
-      "docs/third_party/doppler/doppler_docs/workplace-structure",
-      "docs/third_party/doppler/doppler_docs/access-control",
-      "docs/third_party/doppler/doppler_docs/doppler-security-guide"
-    ],
-    "Advanced Features": [
-      "docs/third_party/doppler/doppler_docs/advanced-features"
-    ],
-    "Troubleshooting & Resources": [
-      "docs/third_party/doppler/doppler_docs/troubleshooting-guide",
-      "docs/third_party/doppler/README"
-    ]
-  },
+  "navigation": [
+    {
+      "group": "Getting Started",
+      "pages": [
+        "docs/json_driven_config",
+        "docs/third_party/doppler/doppler_docs/overview",
+        "docs/third_party/doppler/doppler_docs/getting-started",
+        "docs/third_party/doppler/doppler_docs/installation"
+      ]
+    },
+    {
+      "group": "Guides",
+      "pages": [
+        "docs/third_party/doppler/doppler_docs/doppler-getting-started-guide",
+        "docs/third_party/doppler/doppler_docs/doppler-cli-guide",
+        "docs/third_party/doppler/doppler_docs/doppler-integration-guide",
+        "docs/third_party/doppler/doppler_docs/doppler-security-guide"
+      ]
+    },
+    {
+      "group": "CLI & Commands",
+      "pages": [
+        "docs/third_party/doppler/doppler_docs/cli-commands",
+        "docs/third_party/doppler/doppler_docs/command-cheatsheet",
+        "docs/third_party/doppler/doppler_docs/tui-guide"
+      ]
+    },
+    {
+      "group": "Secrets Management",
+      "pages": [
+        "docs/third_party/doppler/doppler_docs/secrets-basics",
+        "docs/third_party/doppler/doppler_docs/accessing-secrets",
+        "docs/third_party/doppler/doppler_docs/importing-secrets",
+        "docs/third_party/doppler/doppler_docs/secret-injection"
+      ]
+    },
+    {
+      "group": "API & Organization",
+      "pages": [
+        "docs/third_party/doppler/doppler_docs/doppler_api_sdk_guide",
+        "docs/third_party/doppler/doppler_docs/project-organization",
+        "docs/third_party/doppler/doppler_docs/workplace-structure",
+        "docs/third_party/doppler/doppler_docs/access-control"
+      ]
+    },
+    {
+      "group": "Advanced & Troubleshooting",
+      "pages": [
+        "docs/third_party/doppler/doppler_docs/advanced-features",
+        "docs/third_party/doppler/doppler_docs/troubleshooting-guide",
+        "docs/third_party/doppler/README"
+      ]
+    }
+  ],
   "footerSocials": {
     "x": "https://x.com/yourhandle",
     "github": "https://github.com/yourusername",
