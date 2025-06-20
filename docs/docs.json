@@ -5,7 +5,6 @@
     "dark": "/brand_assets/logo/svg/brand_logo/dark.svg",
     "light": "/brand_assets/logo/svg/brand_logo/light.svg"
   },
-  "favicon": "/brand_assets/logo/svg/icon/dark.svg",
   "colors": {
     "primary": "#f46530",
     "light": "#ffffff",
