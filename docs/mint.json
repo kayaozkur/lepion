@@ -7,85 +7,22 @@
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#f46530",
+    "light": "#ffffff",
+    "dark": "#2a2e30",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#f46530",
+      "to": "#ffffff"
     }
   },
   "topbarLinks": [
     {
       "name": "Support",
-      "url": "mailto:hi@mintlify.com"
+      "url": "mailto:support@example.com"
     }
   ],
   "topbarCtaButton": {
     "name": "Dashboard",
-    "url": "https://dashboard.mintlify.com"
+    "url": "https://dashboard.example.com"
   },
   "tabs": [
-    {
-      "name": "Third Party Integrations",
-      "url": "third-party"
-    }
-  ],
-  "anchors": [
-    {
-      "name": "Documentation",
-      "icon": "book-open-cover",
-      "url": "https://mintlify.com/docs"
-    },
-    {
-      "name": "Community",
-      "icon": "slack",
-      "url": "https://mintlify.com/community"
-    },
-    {
-      "name": "Blog",
-      "icon": "newspaper",
-      "url": "https://mintlify.com/blog"
-    }
-  ],
-  "navigation": [
-    {
-      "group": "Get Started",
-      "pages": [
-        "introduction",
-        "quickstart",
-        "development"
-      ]
-    },
-    {
-      "group": "Third Party Integrations",
-      "pages": [
-        "third-party/doppler/overview",
-        "third-party/doppler/getting-started",
-        "third-party/doppler/installation",
-        "third-party/doppler/secrets-basics",
-        "third-party/doppler/accessing-secrets",
-        "third-party/doppler/importing-secrets",
-        "third-party/doppler/secret-injection",
-        "third-party/doppler/project-organization",
-        "third-party/doppler/workplace-structure",
-        "third-party/doppler/access-control",
-        "third-party/doppler/advanced-features",
-        "third-party/doppler/cli-commands",
-        "third-party/doppler/command-cheatsheet",
-        "third-party/doppler/tui-guide",
-        "third-party/doppler/doppler-cli-guide",
-        "third-party/doppler/doppler-getting-started-guide",
-        "third-party/doppler/doppler-integration-guide",
-        "third-party/doppler/doppler-security-guide",
-        "third-party/doppler/doppler_api_sdk_guide",
-        "third-party/doppler/troubleshooting-guide"
-      ]
-    }
-  ],
-  "footerSocials": {
-    "x": "https://x.com/mintlify",
-    "github": "https://github.com/mintlify",
-    "linkedin": "https://www.linkedin.com/company/mintsearch"
-  }
-}
